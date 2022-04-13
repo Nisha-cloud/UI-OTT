@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+    header{
+    width: 100vw;
+    height: 10vh;
+    background-color:darkblue;
+    
+}
+.space{
+    display: flex ;
+    justify-content: space-between;
+    padding-left: 8vh;
+    padding-top: 3vh;
+    color: white;
+}
+.box p{
+    color: white;
+    padding-right: 8vh;
+
+    display: inline-flex;
+    align-items: center;
+}
+/* main{
+    /* height: 60vh; */
+
+
+.container{
+    
+    
+    display: grid;
+    grid-template-columns: 50vw 50vw;
+
+    
+}
+
+.left{
+    height: 60vh;
+    width: 50vw;
+    background-color: black;
+    display: grid;
+   grid-template-rows: 3vh 3vh 3vh 3vh;
+   row-gap: 4vh;
+   
+}
+.one{
+    color: white;
+    
+    margin-left: 8vh;
+    
+}
+.two p{
+    color: white;
+    
+    margin-left: 8vh;
+}
+.three{
+    width: 17vw;
+    height: 6vh;
+    margin-left: 8vh ;
+    margin-top: 2vh;
+    background-color: blue;
+}
+.four p{
+    color: white;
+    
+    margin-left: 8vh;
+    padding: 1vh;
+}
+.right{
+    display: grid;
+
+    width: 50vw;
+    height: 60vh;
+    background-color: black;
+    
+}
+.card-img{
+    padding: 6px;
+}
+.left-one{
+    background-color: white;
+    color: black;
+    height: 60vh;
+}
+.left-one .one{
+    color: black;
+    padding: 2vh;
+}
+.left-one .two p{
+    color: black;
+}
+.right-one{
+    background-color: white;
+    height: 60vh;
+}
+
+
+
+    
+
+
+   
+    
+
+
+
+    
+
+footer{
+    height: 20vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+    
+
+
+}
+/* footer img{
+    width: 5vw;
+    height: 10vh;
+    margin-top: 5vh;
+}
+footer img p{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2vh;
+} */
+/* footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+.bottom{
+    display: grid;
+    grid-template-rows: 2vh 2vh;
+    
+
+    
+    
+    
+
+}
+.end{
+    display: flex;
+   
+    
+}
